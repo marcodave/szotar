@@ -1,0 +1,1 @@
+{"mixinTypes":["contribution"],"runners":{"configs":{"system:/java/codenvy-cli":{"ram":1000,"variables":{},"options":{}}},"default":"system:/java/codenvy-cli"},"builders":{"configs":{},"default":"maven"},"type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
